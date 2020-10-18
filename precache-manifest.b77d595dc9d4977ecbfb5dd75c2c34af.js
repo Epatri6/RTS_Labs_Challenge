@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a6dad5ba1d61bec27c89ed57e6af074",
+    "revision": "f6713cc7fd37743b8058f4cddbb67764",
     "url": "/RTS_Labs_Challenge/index.html"
   },
   {
