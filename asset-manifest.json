@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RTS_Labs_Challenge/static/css/main.8330e30c.chunk.css",
+    "main.js": "/RTS_Labs_Challenge/static/js/main.7e4ee070.chunk.js",
+    "main.js.map": "/RTS_Labs_Challenge/static/js/main.7e4ee070.chunk.js.map",
+    "runtime-main.js": "/RTS_Labs_Challenge/static/js/runtime-main.52cc71de.js",
+    "runtime-main.js.map": "/RTS_Labs_Challenge/static/js/runtime-main.52cc71de.js.map",
+    "static/js/2.682b70f8.chunk.js": "/RTS_Labs_Challenge/static/js/2.682b70f8.chunk.js",
+    "static/js/2.682b70f8.chunk.js.map": "/RTS_Labs_Challenge/static/js/2.682b70f8.chunk.js.map",
+    "index.html": "/RTS_Labs_Challenge/index.html",
+    "precache-manifest.ce3eb6c1b6b9d1f6bd28964832fbd68a.js": "/RTS_Labs_Challenge/precache-manifest.ce3eb6c1b6b9d1f6bd28964832fbd68a.js",
+    "service-worker.js": "/RTS_Labs_Challenge/service-worker.js",
+    "static/css/main.8330e30c.chunk.css.map": "/RTS_Labs_Challenge/static/css/main.8330e30c.chunk.css.map",
+    "static/js/2.682b70f8.chunk.js.LICENSE.txt": "/RTS_Labs_Challenge/static/js/2.682b70f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52cc71de.js",
+    "static/js/2.682b70f8.chunk.js",
+    "static/css/main.8330e30c.chunk.css",
+    "static/js/main.7e4ee070.chunk.js"
+  ]
+}
