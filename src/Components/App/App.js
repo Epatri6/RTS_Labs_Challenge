@@ -17,7 +17,6 @@ export default class App extends React.Component {
 
     render() {
         const {question} = this.state;
-        console.log(question);
         return (
             <div className='wrapper flex-container'>
                 <h1>RTS Labs Challenge Questions</h1>
